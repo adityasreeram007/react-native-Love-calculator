@@ -1,0 +1,12 @@
+{
+  "name": "Love-Calculator",
+  "displayName": "Love-Calculator",
+  "expo": {
+    "name": "Love-Calculator",
+    "slug": "Love-Calculator",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
